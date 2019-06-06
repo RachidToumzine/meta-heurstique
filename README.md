@@ -5,3 +5,5 @@ Résoudre un problème d’optimisation combinatoire en utilisant des heuristiqu
 ______
 
 Toumzine Rachid - Rocher Olivier
+PART 1: PARSER ET  CHECKER
+PART 2: BORN INF BORN SUP
